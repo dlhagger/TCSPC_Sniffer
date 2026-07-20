@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# macOS metadata and local vendor installations
+.DS_Store
+BH/
